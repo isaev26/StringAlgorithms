@@ -1,0 +1,6 @@
+def func():
+    """
+    """
+
+
+print(func())
